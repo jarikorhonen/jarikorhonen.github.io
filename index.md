@@ -1,3 +1,5 @@
 ## Research Profile
 
-During my research career, I have been working on several different topics, mostly related to multimedia communications and Quality of Experience (QoE). I did my PhD about packet loss resilient audio streaming for Nokia Research Center, Tampere, Finland, and defended my dissertation in May 2006. More recently, I have been working mostly on visual and audiovisual quality assessment, covering both subjective methodologies and objective quality metrics.
+During my research career, I have been working on several different topics, mostly related to multimedia communications and Quality of Experience (QoE). I did my PhD about packet loss resilient audio streaming for Nokia Research Center, Tampere, Finland, during 2001-06. Since 2008, I have been working mostly on visual and audiovisual quality assessment, covering both subjective methodologies and objective quality metrics.
+
+The list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=IrbP5FUAAAAJ).
