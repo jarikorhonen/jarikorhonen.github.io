@@ -4,8 +4,3 @@ During my research career, I have been working on several different topics, most
 
 The list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=IrbP5FUAAAAJ).
 
-#### No-Reference Video Quality Assessment
-
-#### Subjective Rank Ordering of Cosumer Photos
-
-#### Upsampling of Images in Y'CbCr 4:2:0 format
