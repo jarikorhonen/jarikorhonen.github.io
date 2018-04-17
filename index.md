@@ -4,7 +4,7 @@ During my research career, I have been working on several different topics, most
 
 The list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=IrbP5FUAAAAJ).
 
-## Upsampling of images in Y'CbCr 4:2:0 format
+### Upsampling of images in Y'CbCr 4:2:0 format
 
 This is a small piece of work published in ICME'15. Many practical digital images are represented in Y'CbCr 4:2:0 format, where the monochrome version (luma aka Y' component) of the image is coded in higher resolution than the color information (chroma aka Cb and Cr components). When the image is displayed, the resulting RGB image has to be reconstructed by first upsampling the low resolution Cb and Cr images to the same resolution with the Y' component. Since local variations in luma and chroma values are typically correlated, more accurate upsampling results can be obtained by exploiting the luma component in chroma upsampling process.
 
