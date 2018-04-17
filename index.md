@@ -20,7 +20,7 @@ Matlab implementation for the proposed technique will be posted on GitHub soon.
 J. Korhonen, "Learning-based prediction of packet loss artifact visibility in networked video," *IEEE International Conference on Quality of Multimedia Experience (QoMEX'18)*, Sardinia, Italy, May 2018.
 
 
-### Upsampling of images in Y'CbCr 4:2:0 format
+### Chroma upsampling for images in Y'CbCr 4:2:0 format
 
 This is a small piece of work published in ICME'15. Many practical digital images are represented in Y'CbCr 4:2:0 format, where the monochrome version (luma aka Y' component) of the image is coded in higher resolution than the color information (chroma aka Cb and Cr components). When the image is displayed, the resulting RGB image has to be reconstructed by first upsampling the low resolution Cb and Cr images to the same resolution with the Y' component. Since local variations in luma and chroma values are typically correlated, more accurate upsampling results can be obtained by exploiting the luma component in chroma upsampling process.
 
