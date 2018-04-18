@@ -17,7 +17,7 @@ Matlab implementation for the proposed technique will be posted on GitHub soon.
 
 **Reference:**
 
-J. Korhonen, "Learning-based prediction of packet loss artifact visibility in networked video," *IEEE International Conference on Quality of Multimedia Experience (QoMEX'18)*, Sardinia, Italy, May 2018.
+J. Korhonen, "Learning-based prediction of packet loss artifact visibility in networked video," *IEEE International Conference on Quality of Multimedia Experience (QoMEX'18)*, Sardinia, Italy, May 2018. *(Accepted for publication.)*
 
 
 ### Chroma upsampling for images in Y'CbCr 4:2:0 format
