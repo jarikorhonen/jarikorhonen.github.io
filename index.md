@@ -13,7 +13,7 @@ As networks are becoming faster and mobile camera technology more advanced, digi
 
 In QoMEX'18, we have proposed a distortion specific No-Reference Video Quality Metric (NR-VQM) for detecting packet loss artifacts. Unlike most of the other NR-VQMs known in the prior art, the proposed scheme operates at the frame level, not the sequence level, and therefore it can be used to estimate the position of the impacted frames, rather than assessing the sequence level quality only. The metric is based on hand-crafted features and conventional learning-based regression. Since the proposed metric uses distortion-specific features, it is computationally less complex than most general purpose video and image quality metrics.
 
-Matlab implementation for the proposed technique will be posted on GitHub soon.
+Implementation of the proposed technique can be downloaded [here](https://github.com/jarikorhonen/nr-vqa-packetloss).
 
 **Reference:**
 
