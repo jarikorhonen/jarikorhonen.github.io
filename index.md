@@ -45,4 +45,4 @@ Matlab implementation for the proposed technique is [here](https://github.com/ja
 
 **Reference:**
 
-J. Korhonen, "Improving image fidelity by luma-assisted chroma subsampling," *IEEE International Conference on Multimedia and Expo (ICME'15)*, Turin, Italy, June 2015. [DOI: 10.1109/ICME.2015.7177387](https://doi.org/10.1109/ICME.2015.7177387/)
+J. Korhonen, "Improving image fidelity by luma-assisted chroma subsampling," *IEEE International Conference on Multimedia and Expo (ICME'15)*, Turin, Italy, June 2015. [DOI: 10.1109/ICME.2015.7177387](https://doi.org/10.1109/ICME.2015.7177387)
