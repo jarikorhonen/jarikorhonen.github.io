@@ -27,7 +27,7 @@ J. Korhonen, "Learning-based prediction of packet loss artifact visibility in ne
 
 This is basically a simple collaborative filtering scheme that was initially created for predicting missing scores in video quality assessment studies, published in QoMEX'17. The idea was to improve the accuracy of MOS in cases where some users have rated only a subset of items (e.g. video sequences). We assume that this approach could be helpful for reducing the number of participants in quality assessment studies. It could be used also for assessing the reliability of MOS results and possibly also for detecting unreliable test participants.
 
-It should be noted that there are a lot of implementations of different collaborative filtering schemes available, and some other methods may be more efficient for the proposed task than ours. However, to our knowledge, this work is the first one that uses collaborative filtering in visual quality assessment tasks.
+It should be noted that there are a lot of implementations of different collaborative filtering schemes available (at least if you are ready to switch Matlab to Python), and some other methods may be more efficient for the proposed task than ours. However, to our knowledge, this work is the first one that uses collaborative filtering in visual quality assessment tasks.
 
 Implementation of the method can be downloaded [here](https://github.com/jarikorhonen/personal_scores).
 
