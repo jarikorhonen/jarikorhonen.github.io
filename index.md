@@ -33,7 +33,7 @@ Implementation of the method can be downloaded [here](https://github.com/jarikor
 
 **Reference:**
 
-J. Korhonen, "Predicting personal preferences in subjective video quality assessment," *IEEE International Conference on Quality of Multimedia Experience (QoMEX'18)*, Erfurt, Germany, May 2017. [DOI: 10.1109/QoMEX.2017.7965677](https://doi.org/10.1109/QoMEX.2017.7965677)
+J. Korhonen, "Predicting personal preferences in subjective video quality assessment," *IEEE International Conference on Quality of Multimedia Experience (QoMEX'17)*, Erfurt, Germany, May 2017. [DOI: 10.1109/QoMEX.2017.7965677](https://doi.org/10.1109/QoMEX.2017.7965677)
 
 ### Chroma upsampling for images in Y'CbCr 4:2:0 format
 
