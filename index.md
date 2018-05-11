@@ -15,6 +15,8 @@ As networks are becoming faster and mobile camera technology more advanced, digi
 
 ### Subjective image and video quality assessment
 
+![Subjective quality assessment workflow](https://github.com/jarikorhonen/jarikorhonen.github.io/blob/master/sqa2.png "Subjective quality assessment workflow")
+
 Subjective image and video quality assessment is still important, because it is the only way to obtain the ground truth for human opinions on visual quality. Recently, we have tried some new methodologies, such as involving a touchscreen to detect packet loss artifacts in video sequences, and using rank ordering method to decide the preference between different post-processing methods for photo enhancement. Some resources from recent relevant work in NR-VQA will be available below soon. 
 
 ### Miscellaneous
