@@ -24,6 +24,7 @@ Subjective image and video quality assessment is still important, because it is 
 In addition to quality assessment, I have baan working also on other topics, ranging from collaborative filtering to image enhancement. Some recent studies are showcased here.
 
 [Predicting personal scores for video quality assessment tasks](https://github.com/jarikorhonen/personal_scores), QoMEX'17.
+
 [Chroma upsampling for images in Y'CbCr 4:2:0 format](https://github.com/jarikorhonen/chroma_upsampling), ICME'15.
 
 
