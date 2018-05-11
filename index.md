@@ -21,7 +21,7 @@ Subjective image and video quality assessment is still important, because it is 
 
 ### Miscellaneous
 
-In addition to quality assessment, I have baan working also on other topics, ranging from collaborative filtering to image enhancement. Some recent studies are showcased here.
+In addition to quality assessment, I have been working also on other topics, ranging from collaborative filtering to image enhancement. Some recent studies are showcased here.
 
 [Predicting personal scores for video quality assessment tasks](https://github.com/jarikorhonen/personal_scores), QoMEX'17.
 
