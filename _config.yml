@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: Jari Korhonen
 description: I am working as Research Assistant Professor at Research Institute for Future Media Computing, Shenzhen University. On this page, I will present my research highlights and share the resources, such as program code.
-plugins: - jekyll-seo-tag
+plugins: 
+     - jekyll-seo-tag
