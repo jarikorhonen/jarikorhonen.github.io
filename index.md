@@ -11,9 +11,9 @@ The list of my publications can be found on [Google Scholar](https://scholar.goo
 
 As networks are becoming faster and mobile camera technology more advanced, digital video is all around us. In practice, quality of the video content distributed in the Internet is often impaired by different kinds of distortions, attributed to compression, transmission errors and capture artifacts, such as jerkiness and sensor noise. Subjective quality assessment is often impractical due to the required time and resources. This is why there is need for algorithm-based video quality assessment, known also as *objective video quality metrics*. Objective video quality metrics have several potential applications, such as automatic quality labeling in video distribution services, continuous quality monitoring in streaming systems and user feedback in mobile capture devices, such as tablets and smartphones. Some resources from recent relevant work in NR-VQA is available below.
 
-[Learning-based prediction of packet loss artifact visibility](https://github.com/jarikorhonen/nr-vqa-packetloss), QoMEX'18, May 2018.
-
 **New submission:** [Hierarchical Approach for No-Reference Consumer Video Quality Assessment](https://github.com/jarikorhonen/nr-vqa-consumervideo/). Under review.
+
+[Learning-based prediction of packet loss artifact visibility](https://github.com/jarikorhonen/nr-vqa-packetloss), QoMEX'18, May 2018.
 
 ### Subjective image and video quality assessment
 
