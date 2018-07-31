@@ -13,6 +13,8 @@ As networks are becoming faster and mobile camera technology more advanced, digi
 
 [Learning-based prediction of packet loss artifact visibility](https://github.com/jarikorhonen/nr-vqa-packetloss), QoMEX'18, May 2018.
 
+[New submission: Hierarchical Approach for No-Reference Consumer Video Quality Assessment](https://github.com/jarikorhonen/nr-vqa-consumervideo/). Under review.
+
 ### Subjective image and video quality assessment
 
 ![Subjective quality assessment workflow](https://jarikorhonen.github.io/sqa2.png "Subjective quality assessment workflow")
