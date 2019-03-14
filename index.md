@@ -21,11 +21,11 @@ As networks are becoming faster and mobile camera technology more advanced, digi
 
 Subjective image and video quality assessment is still important, because it is the only way to obtain the ground truth for human opinions on visual quality. Recently, we have tried some new methodologies, such as involving a touchscreen to detect packet loss artifacts in video sequences, and using rank ordering method to decide the preference between different post-processing methods for photo enhancement. Some resources from recent relevant work in subjective quality assessment is available below.
 
+[Assessing personal preferences for image quality](https://github.com/jarikorhonen/personal_image_preferences), CVPR'19, June 2019 (accepted for publication).
+
 [Packet loss artifact analysis based on error clusters](https://github.com/jarikorhonen/error_cluster_detection), EI'16, January 2016; IEEE Transactions on Broadcasting, June 2018.
 
 [Test software for subjective rank ordering of images](https://github.com/jarikorhonen/image_ranking), QoMEX'18, May 2018.
-
-[Assessing personal preferences for image quality](https://github.com/jarikorhonen/personal_image_preferences), CVPR'19, June 2019 (accepted for publication).
 
 ### Miscellaneous
 
