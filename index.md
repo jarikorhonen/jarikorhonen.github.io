@@ -25,6 +25,8 @@ Subjective image and video quality assessment is still important, because it is 
 
 [Test software for subjective rank ordering of images](https://github.com/jarikorhonen/image_ranking), QoMEX'18, May 2018.
 
+[Assessing personal preferences for image quality](https://github.com/jarikorhonen/personal_image_preferences), CVPR'19, June 2019 (accepted for publication).
+
 ### Miscellaneous
 
 In addition to quality assessment, I have been working also on other topics, ranging from collaborative filtering to image enhancement. Some recent studies are showcased here.
